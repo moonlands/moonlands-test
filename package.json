@@ -1,0 +1,17 @@
+{
+  "name": "moonlands-01",
+  "version": "0.0.4",
+  "description": "Moonlands Rebuild",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js "
+  },
+  "author": "Moonlands",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
